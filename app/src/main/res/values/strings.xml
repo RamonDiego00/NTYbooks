@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NTYbooks</string>
+<!--  Commom(reutilizável)  -->
+
+    <!--Books Activity-->
+    <string name="books_title"> Books </string>
+</resources>
